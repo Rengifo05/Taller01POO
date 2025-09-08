@@ -1,0 +1,11 @@
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/bin/Debug/net9.0/POO.Concepts.deps.json
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/bin/Debug/net9.0/POO.Concepts.dll
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/bin/Debug/net9.0/POO.Concepts.pdb
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/POO.Concepts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/POO.Concepts.AssemblyInfoInputs.cache
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/POO.Concepts.AssemblyInfo.cs
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/POO.Concepts.csproj.CoreCompileInputs.cache
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/POO.Concepts.dll
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/refint/POO.Concepts.dll
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/POO.Concepts.pdb
+/Users/cristian_rengifo/Desktop/Taller01POO/POO.Concepts/obj/Debug/net9.0/ref/POO.Concepts.dll
